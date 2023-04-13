@@ -1,4 +1,15 @@
-## Fudan Pred 
+# Fudan Pred 
+
+## Model Summary
+
+![plot](https://raw.githubusercontent.com/frozenparadox99/Fudan_Ped_Predictions/main/Results-Unet/model_plot.png)
+
+<hr>
+
+## Model Visualization
+![plot](https://raw.githubusercontent.com/frozenparadox99/Fudan_Ped_Predictions/main/Results-Unet/model_img_3.png)
+
+## Examples
 <table>
   <tr>
     <td> <img src="https://raw.githubusercontent.com/frozenparadox99/Fudan_Ped_Predictions/main/Results-Unet/Base-img-1.PNG"  alt="1" width = 360px height = 360px ></td>
