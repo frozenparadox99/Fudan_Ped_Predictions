@@ -1,11 +1,5 @@
 # Fudan Pred 
 
-## Model Summary
-
-![plot](https://raw.githubusercontent.com/frozenparadox99/Fudan_Ped_Predictions/main/Results-Unet/model_plot.png)
-
-<hr>
-
 ## Model Visualization
 ![plot](https://raw.githubusercontent.com/frozenparadox99/Fudan_Ped_Predictions/main/Results-Unet/model_img_3.png)
 
@@ -90,3 +84,9 @@
    
    
 </table>
+
+## Model Summary
+
+![plot](https://raw.githubusercontent.com/frozenparadox99/Fudan_Ped_Predictions/main/Results-Unet/model_plot.png)
+
+<hr>
